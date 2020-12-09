@@ -1,4 +1,6 @@
-# Script-Linux
+# Script Linux <img src="https://img.shields.io/static/v1?label=Velocidade&message=PPPoE&color=blue&style=for-the-badge"/>
+
+
 <h2>Instalação de programas linux para teste de velocidade e discador PPPoE</h2>
 
 <h3>Instalar Programas</h3> 
