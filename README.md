@@ -1,5 +1,5 @@
 # Script-Linux
-<h1>Instalação de programas linux para teste de velocidade e discador PPPoE</h1>
+<h2>Instalação de programas linux para teste de velocidade e discador PPPoE</h2>
 
 <h3>Instalar Programas</h3> 
 
