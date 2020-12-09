@@ -1,23 +1,23 @@
 # Script-Linux
-<h1>Instalação de programas linux para teste de velocidade e discador PPPoE<h1>
+<h1>Instalação de programas linux para teste de velocidade e discador PPPoE</h1>
 
-<h3>Instalar Programas<h3> 
+<h3>Instalar Programas</h3> 
 
-1° abrir terminal linux na pasta instalação programas;<br>
-2° rodar o arquivo **script-instalacao.sh** com o comando:<br>
+1° abrir terminal linux na pasta instalação programas;</br>
+2° rodar o arquivo **script-instalacao.sh** com o comando:</br>
 ```$ sh script-instalacao.sh```
 
-<h3>Adicionar PPPoE<h3>
+<h3>Adicionar PPPoE</h3>
 
-Depois de instalar os programas, irá abrir no terminal o **nmcli**, logo após.<br>
+Depois de instalar os programas, irá abrir no terminal o **nmcli**, logo após.</br>
 ```
 $ set pppoe.username username
 $ save
 $ quit
 ```
-<h3>Speed Test<h3>
+<h3>Speed Test</h3>
   
-Para realizar o teste com o **Speed Test**, utilize os seguintes comandos:<br>
+Para realizar o teste com o **Speed Test**, utilize os seguintes comandos:</br>
 ```
 $ speed-test
 --json -j     resultado em JSON
@@ -26,9 +26,9 @@ $ speed-test
 ```
 <img src="https://github.com/Bruno977/Script-Linux/blob/main/Logos/speed-test.gif" width="300" height="150">
 
-<h3>Fast<h3>
+<h3>Fast</h3>
 
-Para realizar teste com o **Fast**, utilize os seguintes comando: <br>
+Para realizar teste com o **Fast**, utilize os seguintes comando: </br>
 ```
 $ fast 
 $ fast > file
