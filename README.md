@@ -39,5 +39,5 @@ $ fast > file
 
 <h3>Desenvolvedor</h3>
 
-[<img src="https://avatars2.githubusercontent.com/u/47644815?s=460&u=366c62260ffea2df04277453c563654babdd87db&v=4" width=115 > <br> <sub> Bruno </sub>](https://github.com/Diana-ops) |
+[<img src="https://avatars2.githubusercontent.com/u/47644815?s=460&u=366c62260ffea2df04277453c563654babdd87db&v=4" width=115 > <br> <sub> Bruno </sub>](https://github.com/Bruno977) |
 | :---: | 
