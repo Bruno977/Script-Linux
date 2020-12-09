@@ -26,9 +26,10 @@ $ quit
 4º **Novo item**</br>
 5° Adicione o nome do arquivo, no **command** adicione o arquivo **teste-velocidade.sh** que está em **Documentos** e por fim marque **Launch in terminal?**</br>
 6° Adicione o Icone</br>
-7° Adicione o *Teste velocidade** nos favoritos**</br>
+7° Adicione o **Teste velocidade** nos **favoritos**</br>
 
 <h3>Criar DHCP e PPPoE</h3>
+
 1° Criar perfil **DHCP** na conexão cabeada</br>
 2º Alterar a interface pai para **enp1s0**</br>
 3° Alterar interface PPP para **enp1s0**</br>
